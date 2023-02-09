@@ -1,0 +1,40 @@
+body {
+	background: ghostwhite;
+	padding: 5% 25%;
+	text-align: center;
+}
+
+ul {
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	gap: 10px;
+}
+
+li {
+	display: inline-block;
+	font-size: 20px;
+}
+
+.text-container {
+	text-align: left;
+}
+
+.image_container {
+	display: flex;
+	justify-content: space-around;
+}
+
+img {
+	width: 30%;
+}
+
+table {
+	margin: 0 auto 20px auto;
+}
+
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 5px 10px;
+}
