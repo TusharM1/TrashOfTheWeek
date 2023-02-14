@@ -1,0 +1,98 @@
+body {
+	background: green;
+}
+
+h1 {
+	color: orange;
+	background: blue;
+	font-size: 40px;
+	font-family: "Al Nile";
+	margin: 10px;
+	padding: 20px;
+	border: violet;
+}
+
+h2 {
+	color: purple;
+	background: yellow;
+	font-size: 20px;
+	font-family: "Charter";
+	margin: 5px;
+	padding: 10px;
+	border: orangered;
+}
+
+p {
+	color: brown;
+	background: lightgray;
+	font-size: 10px;
+	font-family: "Times New Roman";
+	margin: 2px;
+	padding: 5px;
+	border: black;
+}
+
+ul {
+	color: maroon;
+	background: coral;
+	font-size: 15px;
+	font-family: "Muna";
+	margin: 5px;
+	padding: 8px;
+	border: yellow;
+}
+
+li {
+	margin: 5px;
+	padding: 8px;
+}
+
+a {
+	color: teal;
+	background: aquamarine;
+	font-size: 10px;
+	margin: 5px;
+	padding: 8px;
+}
+
+table {
+	color: white;
+	background: greenyellow;
+	font-size: 20px;
+	font-family: "Comic Sans MS";
+	margin: 5px;
+	padding: 2px;
+	border: white;
+}
+
+tr {
+	color: white;
+	background: yellow;
+	font-size: 20px;
+	margin: 5px;
+	padding: 2px;
+	border: white;
+}
+
+th {
+	color: black;
+	background: darkblue;
+	font-size: 20px;
+	margin: 5px;
+	padding: 2px;
+	border: white;
+}
+
+td {
+	font-size: 5px;
+	margin: 5px;
+	padding: 2px;
+	border: white;
+}
+
+img {
+	opacity: 50%;
+}
+
+
+

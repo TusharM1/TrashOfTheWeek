@@ -29,6 +29,11 @@ img {
 	width: 30%;
 }
 
+#about_image {
+	float: left;
+	padding: 10px;
+}
+
 table {
 	margin: 0 auto 20px auto;
 }
